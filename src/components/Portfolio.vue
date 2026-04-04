@@ -43,9 +43,25 @@ import Karya2 from "../assets/portfolio/karya2.jpg";
 import Karya3 from "../assets/portfolio/karya3.png";
 import Karya4 from "../assets/portfolio/karya4.png";
 import Karya5 from "../assets/portfolio/karya5.png";
+import Karya6 from "../assets/portfolio/karya6.png";
+import Karya7 from "../assets/portfolio/karya7.png";
+import Karya8 from "../assets/portfolio/karya8.png";
+import Karya9 from "../assets/portfolio/karya9.png";
+import Karya10 from "../assets/portfolio/karya10.png";
 
 // Array asli gambar
-const images = [Karya1, Karya2, Karya3, Karya4, Karya5];
+const images = [
+  Karya1,
+  Karya2,
+  Karya3,
+  Karya4,
+  Karya5,
+  Karya6,
+  Karya7,
+  Karya8,
+  Karya9,
+  Karya10,
+];
 
 // Duplikasi otomatis 2x agar loop mulus
 const duplicatedImages = [...images, ...images];

@@ -10,10 +10,10 @@ import Hero from "../assets/hero.png";
         <div class="col-md-6">
           <h1 class="text-primary">Butuh Layanan Digital Profesional ?</h1>
           <p>
-            Haqqitech Studio siap membantu Anda menghadirkan solusi digital
-            lengkap! Kami menyediakan layanan UI/UX, Desain Grafis, dan Web
-            Development, cocok untuk branding, website, aplikasi, konten visual,
-            dan kebutuhan digital lainnya.
+            Haqqitech Studio siap membantu Anda menghadirkan solusi digital !
+            Mulai dari desain kaligrafi, landing page, hingga web aplikasi,
+            cocok untuk pesantren, Sekolah, UMKM, Bisnis, maupun kebutuhan
+            pribadi. Bikin tampilan lebih menarik, rapi, dan berkesan.
           </p>
           <a href="#layanan"
             ><button class="btn btn-primary">Lihat Layanan</button></a
